@@ -189,7 +189,8 @@ plt.plot(dataset.iloc[:, 1])
 
 
     
-![png](output_7_1.png)
+<img src="Screen Shot 2023-02-04 at 8.43.57 PM.png" alt="Alt text">
+
 
 
 
