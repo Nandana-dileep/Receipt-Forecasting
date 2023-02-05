@@ -4,5 +4,3 @@ gunicorn
 xgboost
 numpy
 holidays
-pickle
-datetime
