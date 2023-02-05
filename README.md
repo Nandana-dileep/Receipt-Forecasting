@@ -187,6 +187,7 @@ plt.plot(dataset.iloc[:, 1])
 
     
 ![png](output_7_1.png)
+![image](https://user-images.githubusercontent.com/73107558/216798504-ad984644-2f76-45c4-9eb7-05c0cbfa8547.png)
     
 
 
@@ -205,7 +206,6 @@ plt.show()
     
 ![png](output_9_0.png)
     
-
 
 ## Data preprocessing
 
