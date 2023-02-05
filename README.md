@@ -1,5 +1,7 @@
 # Receipt-Forecasting using Multiple Linear Regression Model
+
 Accuracy - (90-95)%
+
 Predicting the number of the observed scanned receipts from previous 2021 data
 
 To run the model clik link --> https://fetch-model.herokuapp.com/
@@ -188,6 +190,7 @@ plt.plot(dataset.iloc[:, 1])
 
     
 ![png](output_7_1.png)
+
 
 
     
@@ -876,7 +879,7 @@ plt.scatter(X_test["# Date"], y_pred,color='blue')
 
 
     
-![png](output_41_1.png)
+<img src="Screen Shot 2023-02-04 at 8.33.34 PM.png" alt="Alt text">
     
 
 
