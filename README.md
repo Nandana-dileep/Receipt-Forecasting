@@ -1,4 +1,5 @@
-# Receipt-Forecasting
+# Receipt-Forecasting using Multiple Linear Regression Model
+Accuracy - (90-95)%
 Predicting the number of the observed scanned receipts from previous 2021 data
 
 To run the model clik link --> https://fetch-model.herokuapp.com/
