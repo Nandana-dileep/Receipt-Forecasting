@@ -6,3 +6,5 @@ pandas
 scikit_learn
 seaborn
 statsmodels
+gunicorn
+xgboost
